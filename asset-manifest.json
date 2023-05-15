@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ChatApplication/static/css/main.5077344f.css",
+    "main.js": "/ChatApplication/static/js/main.084973cd.js",
+    "static/js/787.ece66e7a.chunk.js": "/ChatApplication/static/js/787.ece66e7a.chunk.js",
+    "static/media/Captain.png": "/ChatApplication/static/media/Captain.66d97253cf3a2a6f2119.png",
+    "static/media/Education1.png": "/ChatApplication/static/media/Education1.89c64021c8b0b81ba97e.png",
+    "static/media/Education2.png": "/ChatApplication/static/media/Education2.6e5432f68f7eb3dc92c2.png",
+    "static/media/Study.png": "/ChatApplication/static/media/Study.49c5552af661782f40a4.png",
+    "static/media/degree.png": "/ChatApplication/static/media/degree.b7f2b006fd7f6003d841.png",
+    "static/media/email.png": "/ChatApplication/static/media/email.284d1cc1b59876a0e738.png",
+    "index.html": "/ChatApplication/index.html",
+    "main.5077344f.css.map": "/ChatApplication/static/css/main.5077344f.css.map",
+    "main.084973cd.js.map": "/ChatApplication/static/js/main.084973cd.js.map",
+    "787.ece66e7a.chunk.js.map": "/ChatApplication/static/js/787.ece66e7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5077344f.css",
+    "static/js/main.084973cd.js"
+  ]
+}
